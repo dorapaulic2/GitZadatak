@@ -1,5 +1,5 @@
 public class Zadatak  {
     public static void main (String...args){
-     System.out.println("GitZadatak");
+     System.out.println("GitZadatak - brach dev");
 }
 }
